@@ -2,6 +2,7 @@
 ### Requerimientos:
 * Nodejs
 * Loopback
+* MongoDB
 ### Ejecucion
 1. Copiar el contenido de la carpeta
 2. Modificar archivo datasources.json que se encuentra en server
