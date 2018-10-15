@@ -1,7 +1,9 @@
 # Plantilla loopback mongodb 
 ### Requerimientos:
 * Nodejs
-* Loopback
+* Loopback (windows)
+* node-gyp (linux)
+* Strongloop (linux)
 * MongoDB
 ### Ejecucion
 1. Copiar el contenido de la carpeta
