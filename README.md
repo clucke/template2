@@ -1,12 +1,12 @@
 # Plantilla loopback mongodb 
-### Requerimientos:
+## Requerimientos:
 * Nodejs
 * Loopback (windows)
 * Node-gyp (linux)
 * Strongloop (linux)
 * Loopback-connector-mongodb
 * MongoDB
-### Ejecucion
+## Ejecucion
 1. Copiar el contenido de la carpeta
 2. Modificar archivo datasources.json que se encuentra en server
 3. Abrir consola o terminal en la raiz de la carpeta
