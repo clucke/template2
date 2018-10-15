@@ -2,7 +2,7 @@
 ### Requerimientos:
 * Nodejs
 * Loopback (windows)
-* node-gyp (linux)
+* Node-gyp (linux)
 * Strongloop (linux)
 * MongoDB
 ### Ejecucion
