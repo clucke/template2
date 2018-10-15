@@ -4,7 +4,6 @@
 * Loopback (windows)
 * Node-gyp (linux)
 * Strongloop (linux)
-* Loopback-connector-mongodb
 * MongoDB
 ## Ejecucion
 1. Copiar el contenido de la carpeta
