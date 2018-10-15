@@ -4,5 +4,6 @@
 * Loopback
 ### Ejecucion
 1. Copiar el contenido de la carpeta
-2. Abrir consola o terminal en la raiz de la carpeta
-3. Ejecutar node .
+2. Modificar archivo datasources.json que se encuentra en server
+3. Abrir consola o terminal en la raiz de la carpeta
+4. Ejecutar node .
